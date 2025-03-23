@@ -1,0 +1,3 @@
+"Michael Bennet: Diagnosis - Severe Dehydration, Appearance - Irritable/Lethargic, Eyes - Not Assessed,  Skin Pinch - Slow",
+ "Sally Jones: Diagnosis - No Dehydration, Appearance - Normal, Eyes -  Normal/Slightly Sunken,  Skin Pinch: Not Assessed",
+ "Brenda Carmichael: Diagnosis - Some Dehydration, Appearance - Normal, Eyes -  Not Assessed,  Skin Pinch: Normal",
